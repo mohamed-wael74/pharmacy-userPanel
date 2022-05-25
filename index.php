@@ -1,4 +1,4 @@
-<?php 
+<?php
 include "./shared/head.php";
 include "./shared/header.php";
 include "./general/env.php";
@@ -7,8 +7,8 @@ include "./general/env.php";
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex align-items-center">
   <div class="container">
-    <h1>Welcome to Medilab</h1>
-    <h2>We are team of talented designers making websites with Bootstrap</h2>
+    <h1>Welcome to Rextra Pharamcy</h1>
+    <h2>We are dedicated to performing and God is the cure</h2>
     <a href="#about" class="btn-get-started scrollto">Get Started</a>
   </div>
 </section><!-- End Hero -->
@@ -22,11 +22,9 @@ include "./general/env.php";
       <div class="row">
         <div class="col-lg-4 d-flex align-items-stretch">
           <div class="content">
-            <h3>Why Choose Medilab?</h3>
+            <h3>Why Choose Rextra Pharamcy ?</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore magna aliqua. Duis aute irure dolor in reprehenderit
-              Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+              We are always keen to provide the largest variety of personal and health care products necessary to meet the needs of our customers. And if you need a specific medicine that is not available with us, please call our hotline (19600) to register your special request. Special orders are delivered within 4-6 weeks.
             </p>
             <div class="text-center">
               <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
@@ -65,6 +63,60 @@ include "./general/env.php";
     </div>
   </section><!-- End Why Us Section -->
 
+  <div class="section-title">
+      <h2>Medicine</h2>
+      <p>The ancient peoples used to confuse the practice of medicine with the practice of magic and religious practices, then humanity advanced through stages<br> the most important of which is when Islam imposed the clear difference between what is forbidden magic and the practice of medicine </p>
+    </div>
+
+  <!-- start cards section -->
+  <section class="med">
+    <div class="card">
+      <img src="./assets/img/medicine/panadol.jpg" alt="">
+      <h4>Panadol</h4>
+      <p>It is a pain reliever and a fever reducer</p>
+<button type="button" class="btn btn-primary">Order Now</button>
+    </div>
+    <div class="card">
+      <img src="./assets/img/medicine/1591015634diclofenac-potassium.jpeg" alt="">
+      <h4>Cataflam</h4>
+      <p>Migraine headache - pain that ranges in intensity</p>
+<button type="button" class="btn btn-primary">Order Now</button>
+    </div>
+    <div class="card">
+      <img src="./assets/img/medicine/كاتافاست-3-1.jpg" alt="">
+      <h4>Catafast</h4>
+      <p>Osteoarthritis - Rheumatoid arthritis.</p>
+<button type="button" class="btn btn-primary">Order Now</button>
+    </div>
+    <div class="section-title">
+      <h2>Beauty and care</h2>
+      <p>The Beauty Care unit is active in consumer goods and professional products for hair salons <br> We want to continue to grow in the consumer segment and strengthen our innovation leadership  in mature markets to continue </p>
+    </div>
+    </div>
+    <div class="card">
+      <img src="./assets/img/medicine/champo 1.jpg" alt="">
+      <h4>Head & Shoulders</h4>
+      <p> </p>
+<button type="button" class="btn btn-primary">Order Now</button>
+    </div>
+    <div class="card">
+      <img src="./assets/img/medicine/champo 3.jpg" alt="">
+      <h4>Clear</h4>
+      <p></p>
+<button type="button" class="btn btn-primary">Order Now</button>
+    </div>
+    <div class="card">
+      <img src="./assets/img/medicine/champo 2.jpeg" alt="">
+      <h4>Loreal</h4>
+      <p></p>
+<button type="button" class="btn btn-primary">Order Now</button>
+    </div>
+
+  </section>
+
+  <!-- end cards section -->
+
+
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="contact">
     <div class="container">
@@ -78,9 +130,7 @@ include "./general/env.php";
     </div>
 
     <div>
-      <iframe style="border:0; width: 100%; height: 350px;"
-        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621"
-        frameborder="0" allowfullscreen></iframe>
+      <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="container">
@@ -144,7 +194,7 @@ include "./general/env.php";
 
 </main><!-- End #main -->
 
-<?php 
+<?php
 include "./shared/footer.php";
 include "./shared/script.php";
 ?>

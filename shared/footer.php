@@ -6,7 +6,7 @@
               <div class="row">
 
                   <div class="col-lg-3 col-md-6 footer-contact">
-                      <h3>Medilab</h3>
+                      <h3>Rextra Pharamcy</h3>
                       <p>
                           A108 Adam Street <br>
                           New York, NY 535022<br>
@@ -30,17 +30,17 @@
                   <div class="col-lg-3 col-md-6 footer-links">
                       <h4>Our Services</h4>
                       <ul>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+                          
+                          <li><i class="bx bx-chevron-right"></i> <a href="#Beauty and care">Beauty and care</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#Medicine">Medicine</a></li>
+                          
                       </ul>
                   </div>
 
                   <div class="col-lg-4 col-md-6 footer-newsletter">
-                      <h4>Join Our Newsletter</h4>
-                      <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+                      <h4>Join Our Rextra Pharamcy</h4>
+                      <p></p>We believe in people! Creating a successful business idea needs a dream. Realizing dreams needs people.
+</p>
                       <form action="" method="post">
                           <input type="email" name="email"><input type="submit" value="Subscribe">
                       </form>
@@ -54,10 +54,10 @@
 
           <div class="me-md-auto text-center text-md-start">
               <div class="copyright">
-                  &copy; Copyright <strong><span>Medilab</span></strong>. All Rights Reserved
+                  &copy; Copyright <strong><span>Rextra Pharamcy</span></strong>. All Rights Reserved
               </div>
               <div class="credits">
-                  Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                  Designed by <a href="#">Team One</a>
               </div>
           </div>
           <div class="social-links text-center text-md-right pt-3 pt-md-0">
